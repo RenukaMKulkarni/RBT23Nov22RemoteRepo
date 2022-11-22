@@ -1,10 +1,10 @@
-Welcome to Git Session!
-Learning GIT is a very good experience !!
+Welcome - to Git Session!
+Learning - GIT is a very good experience !!
 
-Adding random text djalgaslgjlsdgl
+Adding - random text djalgaslgjlsdgl
 
-Adding function to fix bug1 !!!
+Adding - function to fix bug1 !!!
 
-Eating Pizza and Burger is unhealthy.
+Eating - Pizza and Burger is unhealthy.
 
-Adding a function to fix bug2
+Adding - a function to fix bug2
