@@ -3,3 +3,5 @@ Learning GIT is a very good experience !!
 
 Adding random text djalgaslgjlsdgl
 Eating Pizza is unhealthy.
+
+Adding function to fix bug1
