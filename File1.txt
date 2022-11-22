@@ -5,6 +5,6 @@ Adding - random text djalgaslgjlsdgl
 
 Adding - function to fix bug1 !!!
 
-Eating - Pizza and Burger is unhealthy.
+eating Pizza and Burger is unhealthy.
 
-Adding - a function to fix bug2
+adding a function to fix bug2
