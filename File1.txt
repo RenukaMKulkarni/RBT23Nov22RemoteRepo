@@ -2,6 +2,7 @@ Welcome to Git Session!
 Learning GIT is a very good experience !!
 
 Adding random text djalgaslgjlsdgl
-Eating Pizza is unhealthy.
+Eating Pizza and Burger is unhealthy.
 
-Adding function to fix bug1
+Adding function to fix bug1.....
+Adding a function to fix bug2
